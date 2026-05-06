@@ -89,7 +89,6 @@ li + li {
   margin-bottom: 0;
 }
 
-/* Två bilder bredvid varandra. */
 .serveringsbilder {
   display: grid;
   grid-template-columns: 1fr 1fr;
